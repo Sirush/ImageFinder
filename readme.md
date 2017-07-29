@@ -1,0 +1,1 @@
+A WPF app to find similar images in a folder
